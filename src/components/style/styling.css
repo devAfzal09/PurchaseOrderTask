@@ -1,0 +1,50 @@
+.client-dropdown{
+    border: 1px solid gray;
+    border-radius: 5px;
+    /* padding: 34px; */
+}
+
+.asterisk{
+    color: red;
+    font-weight: bold;
+}
+
+.input-field{
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.talent-detail{
+    background-color: lightgrey;
+}
+
+.btn-add-another{
+    border-radius: 10px;
+}
+
+.job-section{
+    background-color: lightgrey;
+}
+
+.job-input{
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: darkgray;
+    font-weight: bold;
+}
+
+.trash-icon{
+    cursor: pointer;
+}
+
+.job-fonts{
+    font-size: 13px;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+    h5{
+        font-size: 16px;
+    }
+}
